@@ -92,10 +92,5 @@ VITE_FIREBASE_PROJECT_ID=your_project
 - **Frontend:** https://crypto-isotope-483913-f4.web.app
 - **API:** https://studysaathi-api-801277786344.asia-south1.run.app
 
-## Team
-
-Built for GDG Hackathon 2025
-
 ---
 
-*"Saathi" means companion in Hindi - StudySaathi is your AI study companion* 🎯
